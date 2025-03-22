@@ -1,1 +1,1 @@
-# Algoritma-Analizi-Ders
+# Algoritma-Analizi-Dersi
